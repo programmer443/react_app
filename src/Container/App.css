@@ -1,0 +1,9 @@
+.scroll::-webkit-scrollbar {
+    display: none;
+  }
+.stickyHeader{
+  z-index: 100;
+  top:  0;
+  position: sticky;
+  background-color: #96ccff;
+}
